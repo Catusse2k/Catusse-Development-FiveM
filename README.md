@@ -1,2 +1,23 @@
-# Catusse-Development-FiveM
-Here you can find many scripts and assets developed and modified by me for your fivem server
+# ⚡ RECON DEVELOPMENT  
+
+### *By Catusse 2k*  
+
+## 🚀 FiveM Development  
+
+Welcome to the official **RECON DEVELOPMENT** profile, specialized in FiveM development. We create custom resources for servers with optimized performance and clean code.  
+
+### 🧠 Tech Stack  
+Technologies we use for our projects:  
+
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+
+💡 *Always looking for new solutions to improve the gaming experience on FiveM!*  
+
+---
+✉️ **Contact us for collaborations and custom projects!**  
