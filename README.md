@@ -1,6 +1,6 @@
-# ⚡ RECON DEVELOPMENT - FIVEM SCRIPTS & ANTICHEATS ⚡️
+# ⚡ RECON DEVELOPMENT - FIVEM ⚡️
 
-### *By Catusse 2k*  
+### *Scripts & Anticheats by Catusse*  
 
 ## 🚀 FiveM Development  
 
