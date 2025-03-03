@@ -20,4 +20,11 @@ Technologies we use for our projects:
 💡 *Always looking for new solutions to improve the gaming experience on FiveM!*  
 
 ---
+
+## 🔗 Join our Discord  
+Connect with us on Discord for support, updates, and collaborations!  
+
+[![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/p4athdZK)  
+
+---
 ✉️ **Contact us for collaborations and custom projects!**  
