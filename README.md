@@ -30,7 +30,8 @@ Connect with us on Discord for support, updates, buy, previews and collaboration
 ✉️ **Contact us for collaborations and custom projects!**  
 
 --- 
-‼️ ** COMING SOON **
-** - Customs Gamemode, ESX and QBCore **
-** - Updates for our Anticheats **
-** - General Assets for your FiveM server (maps, vehicles and clothes) all lore friendly **
+## ‼️ COMING SOON
+
+- Customs Gamemode, ESX and QBCore
+- Updates for our Anticheats
+- General Assets for your FiveM server (maps, vehicles and clothes) all lore friendly
