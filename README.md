@@ -1,13 +1,13 @@
 # ⚡ RECON DEVELOPMENT  
 
-### *By Catusse 2k*  
+### *By Catusse2k*  
 
 ## 🚀 FiveM Development - Scripts & Anticheats 
 
 Welcome to the official **RECON DEVELOPMENT** profile, specialized in FiveM development. We create custom resources for servers with optimized performance and clean code.  
 
-### 🧠 Tech Stack  
-Technologies we use for our projects:  
+### 🧠 Programming Languages 
+Programming languages ​​used for project development:  
 
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -21,8 +21,8 @@ Technologies we use for our projects:
 
 ---
 
-## 🔗 Join our Discord  
-Connect with us on Discord for support, updates, and collaborations!  
+## 🔗 Join Recon Development Discord Server
+Connect with us on Discord for support, updates, buy, previews and collaborations!  
 
 [![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/p4athdZK)  
 
